@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/airyoga/static/css/main.434b8d2f.css",
+    "main.js": "/airyoga/static/js/main.d1a86239.js",
+    "static/js/787.11b9cd9c.chunk.js": "/airyoga/static/js/787.11b9cd9c.chunk.js",
+    "static/media/header.png": "/airyoga/static/media/header.5bfc5e05ea2895b91a5c.png",
+    "static/media/card3.png": "/airyoga/static/media/card3.4b532756183d5c6d07a8.png",
+    "static/media/card1.png": "/airyoga/static/media/card1.093b9bd677141e2a1202.png",
+    "static/media/card2.png": "/airyoga/static/media/card2.40b313067b9561cdc639.png",
+    "static/media/card4.png": "/airyoga/static/media/card4.937c7bfa60e3469d7645.png",
+    "static/media/bgimg.jpg": "/airyoga/static/media/bgimg.b4f3fa77cccf7022452f.jpg",
+    "static/media/welcombg.png": "/airyoga/static/media/welcombg.26b62815b6768f243bc2.png",
+    "static/media/about.jpeg": "/airyoga/static/media/about.2954e92d8e4112923667.jpeg",
+    "static/media/4 .jpeg": "/airyoga/static/media/4 .2deb2f83c654f778fdc1.jpeg",
+    "static/media/2.jpeg": "/airyoga/static/media/2.e86481e066fad642aa27.jpeg",
+    "static/media/team4.png": "/airyoga/static/media/team4.791b83213cff70d24190.png",
+    "static/media/team3.png": "/airyoga/static/media/team3.96d5a848f90eb7ca5552.png",
+    "static/media/team2.png": "/airyoga/static/media/team2.04d09c8873e911ed3050.png",
+    "static/media/team1.png": "/airyoga/static/media/team1.a90b7a463a24ac380852.png",
+    "static/media/3.jpeg": "/airyoga/static/media/3.038a7e3aa95c0f852b56.jpeg",
+    "static/media/1.jpeg": "/airyoga/static/media/1.8259112f3e4d18cc15f7.jpeg",
+    "static/media/banner.png": "/airyoga/static/media/banner.cb1910f96d3fa6659400.png",
+    "static/media/Yoga2.png": "/airyoga/static/media/Yoga2.0469ebee039095b4113f.png",
+    "static/media/Yoga.png": "/airyoga/static/media/Yoga.ada4a5db038ee577e5be.png",
+    "static/media/Yoga4.png": "/airyoga/static/media/Yoga4.36a851f58d23275c95c0.png",
+    "static/media/Yoga3.png": "/airyoga/static/media/Yoga3.65252a87257a81b175dc.png",
+    "index.html": "/airyoga/index.html",
+    "main.434b8d2f.css.map": "/airyoga/static/css/main.434b8d2f.css.map",
+    "main.d1a86239.js.map": "/airyoga/static/js/main.d1a86239.js.map",
+    "787.11b9cd9c.chunk.js.map": "/airyoga/static/js/787.11b9cd9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434b8d2f.css",
+    "static/js/main.d1a86239.js"
+  ]
+}
